@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="450px" src="./.github/images/info.png" />
+    <img width="450px" src="https://github.com/Igor-Gregori/Bitcoin-Stock-Price-BRL/blob/main/.github/info.png" />
 </h1>
 
 ## :page_facing_up: Descrição
